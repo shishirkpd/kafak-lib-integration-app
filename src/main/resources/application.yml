@@ -1,3 +1,4 @@
 kafka:
   topic: demo-topic
-  broker: localhost:9092
+  bootstrap-servers: http://localhost:9092
+  schemaRegistryUrl: http://localhost:8081

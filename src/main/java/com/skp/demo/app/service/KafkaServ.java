@@ -1,7 +1,7 @@
 package com.skp.demo.app.service;
 
-import com.skp.demo.app.model.Message;
+import com.comcast.gateway.library.PayloadWithMetaInfo;
 
 public interface KafkaServ {
-    String sendData(Message message);
+    String sendData(PayloadWithMetaInfo payload);
 }
