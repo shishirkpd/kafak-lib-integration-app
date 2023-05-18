@@ -6,8 +6,7 @@ kafka:
     key-serializer: org.apache.kafka.common.serialization.StringDeserializer
     value-serializer: org.apache.kafka.common.serialization.ByteArraySerializer
 
-ssl:pdp;c                                                                                      .c aaaaaa624eeerr                                                                                                    a]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]                                                                                                  a
-ie8yyuyiuyhj
+ssl:
   enabled: false
 
 client.id: demo-app
